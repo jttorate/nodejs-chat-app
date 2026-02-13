@@ -7,8 +7,8 @@ A simple real-time group chat application built with Node.js that prompts users 
 ## How to Run the Project
 
 ```bash
-cd nodejs-chat-app  # go to base project folder
-npm install         # install dependencies
-npm run start       # run server
+cd nodejs-chat-app      # go to base project folder
+npm install             # install dependencies
+npm run start           # run server
 ```
 

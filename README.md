@@ -7,13 +7,13 @@ A simple real-time group chat application built with Node.js that prompts users 
   - 🏠 User selects or creates a chat room
   - 💬 Real-time group messaging
   - 🔄 Multiple rooms support
-  - ⚡ Built with Node.js and Socket.io
+  - ⚡ Built with Node.js and Socket.IO
   - 📡 Instant message broadcasting within rooms
 
 ## 🛠️ Tech Stack
   - Node.js
   - Express.js
-  - Socket.io
+  - Socket.IO
   - HTML / CSS / Vanilla JavaScript
 
 ## 📦 Installation
